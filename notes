@@ -1,0 +1,14 @@
+c= v/p
+
+p= n!
+
+v= n!/(n-p)!
+
+c=n!/(p!(n-p)!
+WITH REPETITION
+   p
+v=n
+
+    (n+p-1)!
+c= -------------
+     p!(n-1)!
