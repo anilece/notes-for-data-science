@@ -12,3 +12,48 @@ v=n
     (n+p-1)!
 c= -------------
      p!(n-1)!
+
+e= in or 
+
+a E x = a contains x
+
+x E a = x is an element of x
+
+x E/ a = x not in a
+
+: = such that
+
+c
+-  = subset
+
+every set has 2 subset itself and null
+
+a U b = a + b - (a n b)
+
+mutually exclusive == interscetion is null set
+
+all complements are mutually exclusive but not all mutually exclusive are comlpements
+
+p(a|b) ==p(a) given b
+
+
+independent = p(a)=p(a|b)
+
+dependent= p(a|b) =p(anb)/p(b)
+
+law of total probability
+p(veg) = p(a|b)p(A) + p(b|a)p(b)
+
+additive law
+
+p(a U b) = p(a) + p(b) -P(a n b)
+
+multiplication rule
+p(a n b) =p(A|b) P(b)
+
+bayes rule
+
+p(a|b) = (p(b|A) p(a)) /p(b)
+
+
+
