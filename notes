@@ -53,7 +53,47 @@ p(a n b) =p(A|b) P(b)
 
 bayes rule
 
+
 p(a|b) = (p(b|A) p(a)) /p(b)
 
 
+mean(x) , variance(o-) , standard deviation(s)
 
+types of distribtion
+
+finite number outcome = discrete. (rolling a die)
+infinite number = continous 
+outcomes equal likely = equiproable
+outcome with 2 outcome true or false = bernouli
+similar experiment many times = binomial
+poission distribution - frequency change
+
+chi squared - starts with zero only positive values
+hypothesis testing
+
+easy changing -exponential
+logistic - 
+
+
+discrete -> adding up all probabilities upto the limi
+p(Y<=y) =p(Y<y+1)
+
+uniform distribution have no useful information
+u(p)
+all have equal outcome
+
+bernouli 
+bern(p) 1 trial 2 possible outcome
+p or 1-p --> 2 probaliblity value
+variance =p(1-p)
+
+binomial
+
+
+
+statistics --> numerical , categorical
+
+numerical -->quantitative,qualitative
+qualitative --> nominal , ordinal
+quantitative --> interval ,ratio(true zero point)
+pi = interval and ratio
