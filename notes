@@ -97,3 +97,71 @@ numerical -->quantitative,qualitative
 qualitative --> nominal , ordinal
 quantitative --> interval ,ratio(true zero point)
 pi = interval and ratio
+
+relative frequency = frequency/ total frequency
+
+
+sd = sqrt of variance square
+
+rel.sd = sd/mean
+
+covariance = sum of (diff of value from mean) / total no of observations -1
+
+core.coef = cov(x,y) /sd(x)sd(y)
+
+normal distribution = mean=median=mode
+mode = highest value
+
+standard normal distribution z = (x- mu)/sigma(sd)
+std.deviation does not change by adding and subtracting values from all points
+
+central limit theorem
+
+standard error = sigma/sqrt(n)
+
+confidence intervals = pointestimate(mean)-(reliability factor * standard error), pointestimate(mean)+(reliability factor * standard error)
+reliability factor = z(alpha)/2
+confidence level =95% alpha=5%
+
+finding z of alpha
+confidence level = 95%
+alpha=0.05
+divide alpha by 2
+z(0.025) = 1-0.025 =0.975
+
+degress of freedom = no of samples -1
+
+population variance unknown - students t
+_
+x + -  t        alpha/ 2 .(S/sqrt(n)) 
+        n-1,
+        
+population variance known = normal z
+
+_
+x + -  Z         alpha/ 2 .(sigma(sd)/sqrt(n)) 
+        n, 
+
+z(95)= 1.96
+z(90)=1.645
+z(99)=2.575
+
+ci for 2 mean independent samples , variances unknown
+degress of freedom = nx+ny-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
