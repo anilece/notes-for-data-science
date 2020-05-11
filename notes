@@ -142,18 +142,33 @@ _
 x + -  Z         alpha/ 2 .(sigma(sd)/sqrt(n)) 
         n, 
 
-z(95)= 1.96
-z(90)=1.645
+z(95)= 1.96. t(95)=2.2
+z(90)=1.645 
 z(99)=2.575
 
 ci for 2 mean independent samples , variances unknown
 degress of freedom = nx+ny-2
 
+hypothesis testing
 
+formulate hypothesis
+find right test
+execute test
+make a decision
 
+null hypothesis = thing which we dont want to happen(less than equal or greater than equal)
 
+alternative hypothesis = thing which you want or predict or true
+(ONLY < OR >)
 
+SIGNIFICANCE LEVEL 
+probability of rejectinf the null if it is true
+alpha = 0.01, 0.05, 0.1
 
+TYPE 1 error - reject null hypothesis(alpha)
+type 2 error - accept a false null hypothesis(1-beta)
+
+power of test(1-beta)
 
 
 
